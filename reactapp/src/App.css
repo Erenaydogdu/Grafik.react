@@ -1,0 +1,16 @@
+.chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  position: absolute;
+  top: 50px;
+  transition: all .5s linear;
+  border-radius: 15px;
+  margin-top: 55px;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+}
+
